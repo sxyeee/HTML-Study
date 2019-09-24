@@ -1,0 +1,12 @@
+<html>
+	<head>
+		<title>html study</title><!--网页标题标签：告诉浏览器使用什么标题显示网页-->
+		<meta charset="utf-8"/><!--网页解析编码格式配置：告诉浏览器使用指定的编码格式解析文档-->
+		<meta name="keywords" content="HTML,DLMU,sxy"/><!--网页关键字-->
+		<meta name="description" content="本网页是关于HTML的head标签学习的，666"/><!--网页描述-->
+		<meta http-equiv="refresh" content="5;url=http://www.baidu.com"/><!--网页自动跳转-->
+	</head>
+	<body>
+		this is my first html.
+	</body>
+</html>
