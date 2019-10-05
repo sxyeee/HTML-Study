@@ -1,0 +1,160 @@
+<html>
+	<head>
+		<title>简历作业</title>
+		<meta charset="UTF-8"/>
+	</head>
+	<body>
+		<h3>近期非常热门的个人建立模板</h3>
+		<hr />
+		<table border="1px" cellspacing="0px" style="border-bottom:none;">
+		        <tr height="27px">
+			<td colspan="5"><b>基本情况</b></td>
+		        </tr>
+		        <tr height="27px">
+			<td width="120px">姓名</td>
+			<td width="120px"></td>
+			<td width="120px">性别</td>
+			<td width="120px"></td>
+			<td width="120px" rowspan="7"></td>
+		        </tr>
+		        <tr height="27px">
+			<td>民族</td>
+			<td></td>
+			<td>出生年月</td>
+			<td></td>
+		        </tr>
+		         <tr height="27px">
+			<td>政治面貌</td>
+			<td></td>
+			<td>健康</td>
+			<td></td>
+		        </tr>
+		        <tr height="27px">
+			<td>籍贯</td>
+			<td></td>
+			<td>学历</td>
+			<td></td>
+		        </tr>
+		        <tr height="27px">
+			<td>电子信箱</td>
+			<td></td>
+			<td>联系电话</td>
+			<td></td>
+		        </tr>
+		        <tr height="27px">
+			<td>专业</td>
+			<td colspan="3"></td>
+		        </tr>
+		        <tr height="27px">
+			<td>毕业院校</td>
+			<td colspan="3"></td>
+		        </tr>
+		        <tr height="27px">
+			<td>求职意向</td>
+			<td colspan="4"></td>
+		        </tr>
+		</table>
+		<table border="1px" cellspacing="0px" style="border-top:none;border-bottom:none;">
+		        <tr height="27px">
+			<td colspan="4"><b>教育情况</b></td>
+		        </tr>
+		        <tr height="27px">
+			<td width="151px">时间</td>
+			<td width="151px">院校名称</td>
+			<td width="151px">专业</td>
+			<td width="151px">学历</td>
+		        </tr>
+		        <tr height="27px">
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		        </tr>
+		        <tr height="27px">
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		        </tr>
+		</table>
+		<table border="1px" cellspacing="0px" style="border-top:none;border-bottom:none;">
+		        <tr height="27px">
+			<td colspan="4"><b>培训经历</b></td>
+		        </tr>
+		        <tr height="27px">
+			<td width="151px">时间</td>
+			<td width="151px">培训机构</td>
+			<td width="151px">课程</td>
+			<td width="151px">证书</td>
+		        </tr>
+		        <tr height="27px">
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		        </tr>
+		        <tr height="27px">
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		        </tr>
+		</table>
+		<table border="1px" cellspacing="0px" style="border-top:none;border-bottom:none;">
+		        <tr height="27px">
+			<td colspan="4"><b>技能特长</b></td>
+		        </tr>
+		        <tr height="60px">
+			<td width="616px" colspan="4"></td>
+		        </tr>
+		</table>
+		<table border="1px" cellspacing="0px" style="border-top:none;border-bottom:none;">
+		        <tr height="27px">
+			<td colspan="4"><b>工作经验</b></td>
+		        </tr>
+		        <tr height="27px">
+			<td width="151px">时间</td>
+			<td width="151px">公司名称</td>
+			<td width="151px">职位</td>
+			<td width="151px">工作内容</td>
+		         </tr>
+		        <tr height="27px">
+			<td width="151px"></td>
+			<td width="151px"></td>
+			<td width="151px"></td>
+			<td width="151px"></td>
+		         </tr>
+		</table>
+		<table border="1px" cellspacing="0px" style="border-top:none;border-bottom:none;">
+		        <tr height="27px">
+			<td colspan="4"><b>英文、计算机水平</b></td>
+		        </tr>
+		        <tr height="60px">
+			<td width="616px" colspan="4"></td>
+		        </tr>
+		</table>
+		<table border="1px" cellspacing="0px" style="border-top:none;border-bottom:none;">
+		        <tr height="27px">
+			<td colspan="4"><b>奖励荣誉</b></td>
+		        </tr>
+		        <tr height="55px">
+			<td width="616px" colspan="4"></td>
+		        </tr>
+		</table>
+		<table border="1px" cellspacing="0px" style="border-top:none;">
+		        <tr height="27px">
+			<td colspan="4"><b>自我评价</b></td>
+		        </tr>
+		        <tr height="55px">
+			<td width="616px" colspan="4"></td>
+		        </tr>
+		</table>
+	</body>
+</html>
+
+
+
+
+
+
+		        
